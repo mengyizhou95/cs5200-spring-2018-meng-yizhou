@@ -1,2 +1,1 @@
-# cs5200-spring-2018-meng-yizhou
-class prof. for cs5200
+# PLZ go for new link of my teammate: https://github.com/mengyizhou95/cs5200-spring-Jiawei-Shi
